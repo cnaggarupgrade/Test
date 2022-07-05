@@ -1,19 +1,5 @@
-CEci est un test.
+Ccci est un test.
 
-Voici une autre kigne de texte.
-
-Et encore...
-
-VoilCEci est un test.
-
-Voici une autre kigne de texte.
+Voici une autre ligne de texte.
 
 Et encore...
-
-VoilCEci est un test.
-
-Voici une autre kigne de texte.
-
-Et encore...
-
-Voil
